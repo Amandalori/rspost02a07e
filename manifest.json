@@ -1,0 +1,19 @@
+{
+    "name": "Amandalori",
+    "short_name": "POS",
+    "description": "POS system",
+    "start_url": "/rspost02a07e/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/rspost02a07e/icons/icon-512x512.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/rspost02a07e/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
